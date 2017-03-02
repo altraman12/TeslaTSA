@@ -1,0 +1,192 @@
+/* WARNING: This applies to ALL pages. if the style you're adding is not meant to, put it in another sheet.*/
+
+/* general styles */
+ html, body {
+    height: 100%;
+    width: 100%;
+}
+.img-dropshadow {
+    -webkit-box-shadow: 10px 10px 35px -3px rgba(0, 0, 0, 0.36);
+    -moz-box-shadow: 10px 10px 35px -3px rgba(0, 0, 0, 0.36);
+    box-shadow: 10px 10px 35px -3px rgba(0, 0, 0, 0.36);
+}
+.img-margin {
+    margin:30px auto;
+}
+* {
+    font-family:Montserrat;
+}
+.content-cards {
+    padding: 50px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 30px 1%;
+    width: 65%;
+    display: inline-block;
+    vertical-align: top;
+    /*height: 400px;*/
+    text-align: center;
+    overflow: hidden;
+}
+.content-cards div {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 140%;
+    height: 171%;
+    margin-left: -50px;
+    margin-top: -100px;
+    padding-top: 150px;
+}
+.head-cards {
+    width: 30%;
+}
+.head-text-cards {
+    /* margin: 0px auto; */
+    /* margin-top: 100px; */
+    font-size: 51px;
+    /* text-align: left; */
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+.shadow {
+    text-shadow:2px 2px 4px black;
+    color: white;
+}
+/* padded section */
+ .pad-section {
+    padding: 50px 0;
+}
+.pad-section img {
+    width: 100%;
+}
+/* vertical-centered text */
+ .text-vcenter {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.text-vcenter h1 {
+    font-size: 4.5em;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+/* additional sections */
+ #home {
+    background: url(../../assets/Images/ClubPic.jpg) no-repeat center center fixed;
+    display: table;
+    height: 90%;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:white;
+}
+#designhome {
+    background: url(../../assets/Images/parrot.jpg) no-repeat center center fixed;
+    display: table;
+    height: 90%;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:white;
+}
+#about {
+}
+#School, #schematic, .blurbs {
+    background-color: #81c784;
+    color: #ffffff;
+}
+#drones .glyphicon {
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 60px;
+    height: 140px;
+    line-height: 140px;
+    text-align: center;
+    vertical-align: middle;
+    width: 140px;
+}
+#information {
+    background: url(../../assets/Images/fbla.jpg) no-repeat center center fixed;
+    display: table;
+    height: 800px;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#HololensImg {
+    background: url(../../assets/Images/Ramahololens.jpg) no-repeat center center fixed;
+    display: table;
+    height: 90%;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:white;
+}
+
+#google_map {
+    height: 500px;
+}
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.affix + div {
+    padding-top: 120px;
+}
+#nav {
+    background-color:#2196f3;
+}
+.navbutt {
+    color: white !important;
+}
+#homeButt {
+    background-color:#2196f3;
+    color: white;
+}
+footer {
+    padding: 20px 0;
+}
+footer .glyphicon {
+    color: #333333;
+    font-size: 60px;
+}
+footer .glyphicon:hover {
+    color: #306d9f;
+}
+/* @font-face {
+    font-family: "glyphicon";
+    src: url(glyphicons-halflings-regular.ttf) format("truetype");
+}
+p.glyphicon { 
+    font-family: "glyphicon", Verdana, Tahoma;
+}*/
+ @font-face {
+    font-family:'Glyphicons Halflings';
+    src: url('assets/Fonts/glyphicons-halflings-regular.eot');
+    src: url('assets/Fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('assets/Fonts/glyphicons-halflings-regular.woff') format('woff'), url('assets/Fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('assets/Fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+a {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:clicked {
+    color: black;
+}

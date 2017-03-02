@@ -1,0 +1,37 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0B5dfPEgxewnFZ2g4aVNWZlUwdnc",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/"
+    },
+    {
+      "fileId": "0B9-4Co4Ln5DYeXM5NkVORjhTNlk",
+      "contentType": "text/html",
+      "name": "designbrief.html",
+      "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/designbrief"
+    },
+    {
+      "fileId": "0B5dfPEgxewnFRWdmTEl5czFjc0k",
+      "contentType": "text/html",
+      "name": "workscited.html",
+      "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/designbrief"
+    },
+    {
+      "fileId": "0B9-4Co4Ln5DYb2M1andPUTdSZ2M",
+      "contentType": "text/html",
+      "name": "technology.html",
+      "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/designbrief"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "0B5dfPEgxewnFX21xY0VoRGI2MFU",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/designbrief/lib/css"
+    }
+  ],
+  "javascriptFiles": []
+}
