@@ -19,10 +19,28 @@
       "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/designbrief"
     },
     {
+      "fileId": "0B9-4Co4Ln5DYX0U0bElOS0VodDA",
+      "contentType": "text/html",
+      "name": "uses.html",
+      "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/designbrief"
+    },
+    {
       "fileId": "0B9-4Co4Ln5DYb2M1andPUTdSZ2M",
       "contentType": "text/html",
       "name": "technology.html",
       "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/designbrief"
+    },
+    {
+      "fileId": "0B9-4Co4Ln5DYY0JnRTVXWTRmNGc",
+      "contentType": "text/html",
+      "name": "controversy.html",
+      "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/designbrief"
+    },
+    {
+      "fileId": "0B5dfPEgxewnFZUtDMHRXM2h3RlE",
+      "contentType": "text/html",
+      "name": "tsa.html",
+      "path": "0B5dfPEgxewnFVVFBcDA4U2lmdnc/"
     }
   ],
   "cssFiles": [

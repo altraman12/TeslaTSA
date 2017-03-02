@@ -85,7 +85,7 @@
     color:white;
 }
 #designhome {
-    background: url(../../assets/Images/parrot.jpg) no-repeat center center fixed;
+    background: url(../../assets/Images/Augmented-Reality.png) no-repeat center center fixed;
     display: table;
     height: 90%;
     position: relative;
@@ -126,9 +126,22 @@
 }
 
 #HololensImg {
-    background: url(../../assets/Images/Ramahololens.jpg) no-repeat center center fixed;
+    background: url(../../assets/Images/maxresdefault.jpg) no-repeat center center fixed;
     display: table;
-    height: 90%;
+    height: 50%;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:white;
+}
+
+#TangoImg {
+    background: url(../../assets/Images/meta.png) no-repeat center center fixed;
+    display: table;
+    height: 50%;
     position: relative;
     width: 100%;
     -webkit-background-size: cover;
